@@ -140,3 +140,29 @@ body {
     flex-flow: column;
     align-items: center;
 }
+
+/* Benefices */
+
+.benefices {
+    background-color: #E5E7EB;
+    padding: 40px 200px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.benefices ul {
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+    font-size: 26px;
+    font-weight: lighter;
+    text-decoration: none;
+    color: #1F2937;
+    list-style: square;;
+    text-decoration: none;
+}
+.benefices h2 {
+    display: flex;
+    align-self: self-end;
+}
