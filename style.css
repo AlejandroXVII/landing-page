@@ -148,21 +148,48 @@ body {
     padding: 40px 200px;
     display: flex;
     flex-flow: column;
-    align-items: center;
+
 }
 
 .benefices ul {
     display: flex;
     flex-flow: column;
     gap: 20px;
-    font-size: 26px;
+    font-size: 20px;
     font-weight: lighter;
     text-decoration: none;
     color: #1F2937;
-    list-style: square;;
+    list-style: square;
     text-decoration: none;
 }
 .benefices h2 {
     display: flex;
     align-self: self-end;
+}
+
+/* call-to-action */
+
+.call-to-action {
+    display: flex;
+    flex-flow: row;
+    margin: 70px 200px;
+    padding: 50px 100px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-to-action button {
+    margin: 0;
+    border: none;
+    border-radius: 8px;
+    background: #3882f6;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    flex: none;
+    border: #E5E7EB solid;
 }
