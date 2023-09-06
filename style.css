@@ -12,14 +12,17 @@ body {
     gap: 10px;
     max-width: 30px;
     margin: 0px;
+    font-weight: bold;
 }
+
+/* header */
 
 .header {
     margin: 0px 0;
     display: flex;
     flex-flow: row;
     justify-content: space-between;
-    padding: 10px 50px;
+    padding: 10px 200px;
 }
 
 .header-links {
@@ -38,11 +41,48 @@ body {
     
 }
 
-ul, a {
+.header ul, a {
     display: flex;
     gap: 10px;
     text-decoration: none;
     color: #E5E7EB;
     list-style: none;
     text-decoration: none;
+}
+
+/* second section */
+
+.introduction {    
+    display: flex;
+    flex-flow: row;
+    padding: 80px 200px;
+    gap: 30px;
+    align-items: center;
+}
+
+.left-part h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.left-part p {
+    color: #E5E7EB;
+    font-size: 18px;
+
+}
+
+.left-part button {
+    border: none;
+    border-radius: 8px;
+    background: #3882f6;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+}
+
+.image {
+    display: flex;
+    width: 282px;
+    height: 200px;
 }
