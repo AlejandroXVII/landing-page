@@ -1,2 +1,9 @@
-# landing-page
-A landing page using what I have learned about flex box, html and css to build a web page for my Girlfriend's Business, all the designs and photos were made by me as well 
+# Landing-page
+
+## Links
+- [Life Link](https://alejandroxvii.github.io/landing-page/)
+
+- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+
+## About
+A simple webpage made during the **foundations course** on the [Odin Project.](https://www.theodinproject.com/) I was applying CSS Flexbox to create the layout.
