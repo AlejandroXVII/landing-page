@@ -1,7 +1,7 @@
 # Landing-page
 
 ## Links
-- [Life Link](https://alejandroxvii.github.io/landing-page/)
+- [Live Link](https://alejandroxvii.github.io/landing-page/)
 
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
